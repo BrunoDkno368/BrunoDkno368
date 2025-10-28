@@ -47,7 +47,7 @@
 <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/BrunoDkno368/Segunda-visualizacion-basicas-de-power-bi" title="Go to Source">
-        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/395616537-cc4c0df6-02e5-457a-baed-ba98008c2119.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA2MTU3MDgsIm5iZiI6MTc2MDYxNTQwOCwicGF0aCI6Ii8xODg5OTY1NjMvMzk1NjE2NTM3LWNjNGMwZGY2LTAyZTUtNDU3YS1iYWVkLWJhOTgwMDhjMjExOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxNlQxMTUwMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wM2E2YjA5ZWIwNzBmYTFlYjg1ZWVjMWRlZWQzYTI5MjE0NjIyM2VmNTU3MWNiYmQ2ZTBhZGI0OWQ3OTUxYzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zu7nr-l5e18v5rf2rVBFTRBbLwS6MjOwaZQMwm0p2RQ" /></a>
+        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/395616537-cc4c0df6-02e5-457a-baed-ba98008c2119.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NTI1NDgsIm5iZiI6MTc2MTY1MjI0OCwicGF0aCI6Ii8xODg5OTY1NjMvMzk1NjE2NTM3LWNjNGMwZGY2LTAyZTUtNDU3YS1iYWVkLWJhOTgwMDhjMjExOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyOFQxMTUwNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NmNjMmI2MDUzMDU3MmFhZWYyNDBmZTlkMDdhNzE0ZWMwZjg5NWIxNmFjZDVkMjQzODM5ZGJkZTA5MzBlNTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kJeXoUVb4kMXPRhtmHeOBpGNqRRzwqzreF3_zNaei1o" /></a>
       </p>
     </a>
       <a href="https://github.com/BrunoDkno368/Segunda-visualizacion-basicas-de-power-bi?tab=readme-ov-file" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -57,7 +57,7 @@
   <td width="20%" align="center">
     <p align="center">
      <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos" title="Go to Source">
-        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/487356858-2a29c854-b58c-4ecb-aaa6-f093a63221d5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA2MTU5NzMsIm5iZiI6MTc2MDYxNTY3MywicGF0aCI6Ii8xODg5OTY1NjMvNDg3MzU2ODU4LTJhMjljODU0LWI1OGMtNGVjYi1hYWE2LWYwOTNhNjMyMjFkNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxNlQxMTU0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00N2JkYWI5MGNiZWUzNjA5MjBlNDFmZmNmMTQwMjg4MGVkZjQ5NGVjZDBlZjRlOTViNGZiZjZmYTlmNjUyMzE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jFXo0NSh7DwvoIw6JwGCYneUMaC2Z8nI9_gK9KzDYvw" /></a>
+        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/487356858-2a29c854-b58c-4ecb-aaa6-f093a63221d5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NTE4ODksIm5iZiI6MTc2MTY1MTU4OSwicGF0aCI6Ii8xODg5OTY1NjMvNDg3MzU2ODU4LTJhMjljODU0LWI1OGMtNGVjYi1hYWE2LWYwOTNhNjMyMjFkNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyOFQxMTM5NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZjNiNzFlYWI5NmFhM2EwNDZkN2Y3OTQwNGIwOTQwMWQ0Y2ZiMzg3NjE3M2MxOGRjMTdlMzhiOThkYzMyZGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FpZPgeQTFMUeihzKw6SISZFDJACFHUWSiwXhTcbO1SQ" /></a>
       </p>
  </a>
       <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos?tab=readme-ov-file" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -66,11 +66,6 @@
 
 </td>
   
-  <td width="20%" align="center">
-    <p align="center">
-     <a href="https://github.com/BrunoDkno368/Proyecto_Analisis_Ventas_ETL_EDA/blob/main/README.md" title="Go to Source">
-        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/488336406-700a8052-dee3-43e1-a157-cd6d4bb5efce.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA2MTYyNjMsIm5iZiI6MTc2MDYxNTk2MywicGF0aCI6Ii8xODg5OTY1NjMvNDg4MzM2NDA2LTcwMGE4MDUyLWRlZTMtNDNlMS1hMTU3LWNkNmQ0YmI1ZWZjZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxNlQxMTU5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ODZmN2M0MjI3MjExMGFkNjZiMTRhODgyMzFmNDczZDcyYTQ2N2UyOTdmNDU3ZmQ3NmNjODdhNmQ3ZDgwOTFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iTQRLUY2iaIUYVeu8kAEL5cE93XegxSsc5XALwLpE0c" /></a>
-      </p>
  </a>
     <a href="https://github.com/BrunoDkno368/ETL-EDA-METRICAS" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>  
