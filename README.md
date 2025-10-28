@@ -37,11 +37,11 @@
 <tr border="none">
   <td width="20%" align="center">
     <p align="center">
-     <a href="https://github.com/BrunoDkno368/Visualizacion_en_Power_bi" title="Go to Source">
-        <img align="center" width=100% src="https://github-production-user-asset-6210df.s3.amazonaws.com/188996563/394398640-27c4597a-d767-4b8f-92f1-7695d9f6c8b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251016%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251016T114338Z&X-Amz-Expires=300&X-Amz-Signature=d3d5beeaa18382a0e18e4ccf371c1102ef1b75a606e7ecf5f96249ca767d1c00&X-Amz-SignedHeaders=host" /></a>
+     <a href="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC" title="Go to Source">
+        <img align="center" width=100% src="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC/blob/main/Presentaci%C3%B3n1.jpg" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/BrunoDkno368/Visualizacion_en_Power_bi"" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="20%" align="center">
