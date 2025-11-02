@@ -14,7 +14,7 @@
 
 💻 Python, Power BI, SQL, Excel y técnicas de visualización
 
-📝 roles : desarrollador... líder... apasionado por los datos... emprendedor... freelance... autodidacta y en un futuro quién sabe ☺️
+📝 roles : desarrollador... líder... apasionado por los datos... emprendedor... freelance... autodidacta ☺️
 
 📫 Contacto: **bruno.r.arganaraz@gmail.com**
 <!--Intro end-->
@@ -37,7 +37,7 @@
 <tr border="none">
   <td width="20%" align="center">
     <p align="center">
-     <a href="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC" title="Go to Source">
+     <a href="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC" title="Analisis de vuelos en Argentina">
         <img align="center" width=100% src="https://github.com/BrunoDkno368/Analisis_de_Vuelos_en_Argentina_ANAC/blob/main/Presentaci%C3%B3n1.jpg" /></a>
       </p>
     <p align="center">
@@ -46,21 +46,21 @@
 </td>
 <td width="20%" align="center">
     <p align="center">
-     <a href="https://github.com/BrunoDkno368/Segunda-visualizacion-basicas-de-power-bi" title="Go to Source">
-        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/395616537-cc4c0df6-02e5-457a-baed-ba98008c2119.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NTI1NDgsIm5iZiI6MTc2MTY1MjI0OCwicGF0aCI6Ii8xODg5OTY1NjMvMzk1NjE2NTM3LWNjNGMwZGY2LTAyZTUtNDU3YS1iYWVkLWJhOTgwMDhjMjExOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyOFQxMTUwNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NmNjMmI2MDUzMDU3MmFhZWYyNDBmZTlkMDdhNzE0ZWMwZjg5NWIxNmFjZDVkMjQzODM5ZGJkZTA5MzBlNTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kJeXoUVb4kMXPRhtmHeOBpGNqRRzwqzreF3_zNaei1o" /></a>
+     <a href="https://github.com/BrunoDkno368/Transporte-2025" title="Proyecto con datos reales ">
+        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/508475479-2e896fb4-61c6-4b91-8f1e-540933c0e467.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwODQxMzksIm5iZiI6MTc2MjA4MzgzOSwicGF0aCI6Ii8xODg5OTY1NjMvNTA4NDc1NDc5LTJlODk2ZmI0LTYxYzYtNGI5MS04ZjFlLTU0MDkzM2MwZTQ2Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMlQxMTQzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NTljYWM3Y2ZiZTkxOTJlMzZkNDExODI0Zjc3MWYwZjEzN2ZmZGVkMTdhZTNmZTc1ZDAwMzU0NzBlMzNmZjhjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lc5EHHbYEl5zJL3wnEbzv7bKmELQlFqSGD5vj4OWwX8" /></a>
       </p>
     </a>
-      <a href="https://github.com/BrunoDkno368/Segunda-visualizacion-basicas-de-power-bi?tab=readme-ov-file" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/BrunoDkno368/Transporte-2025" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
   <td width="20%" align="center">
-    <p align="center">
-     <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos" title="Go to Source">
-        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/487356858-2a29c854-b58c-4ecb-aaa6-f093a63221d5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NTE4ODksIm5iZiI6MTc2MTY1MTU4OSwicGF0aCI6Ii8xODg5OTY1NjMvNDg3MzU2ODU4LTJhMjljODU0LWI1OGMtNGVjYi1hYWE2LWYwOTNhNjMyMjFkNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyOFQxMTM5NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZjNiNzFlYWI5NmFhM2EwNDZkN2Y3OTQwNGIwOTQwMWQ0Y2ZiMzg3NjE3M2MxOGRjMTdlMzhiOThkYzMyZGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FpZPgeQTFMUeihzKw6SISZFDJACFHUWSiwXhTcbO1SQ" /></a>
+   <p align="center">
+     <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos" title="Proyecto con datos reales ">
+        <img align="center" width=100% src="https://private-user-images.githubusercontent.com/188996563/487356858-2a29c854-b58c-4ecb-aaa6-f093a63221d5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwODQ3NzksIm5iZiI6MTc2MjA4NDQ3OSwicGF0aCI6Ii8xODg5OTY1NjMvNDg3MzU2ODU4LTJhMjljODU0LWI1OGMtNGVjYi1hYWE2LWYwOTNhNjMyMjFkNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMlQxMTU0MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzVmNTdjYWNlOWFkODdkZTJkYjZiNDYyYTg5NzI3MmU1ZGNiZTJlNzk3NTkwNTM5MGU1YWJhYWQxOTQxODVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oVAomB2DGt3oGMsM1MjsoRScWyOzVLXP9w_6RrLdZpc" /></a>
       </p>
  </a>
-      <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos?tab=readme-ov-file" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/BrunoDkno368/dashboard-recursos-humanos" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 
@@ -72,7 +72,7 @@
 
   <td width="20%" align="center">
     <p align="center">
-     <a href="https://github.com/BrunoDkno368/ETL-EDA-METRICAS/blob/main/README.md" title="Go to Source">
+     <a href="https://github.com/BrunoDkno368/ETL-EDA-METRICAS/blob/main/README.md" title="Proyecto metricas del negocio">
         <img align="center" width=100% src="https://github.com/BrunoDkno368/ETL-EDA-METRICAS/blob/main/descarga%20(2).png" /></a>
       </p>
  </a>
