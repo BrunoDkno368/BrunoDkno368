@@ -12,9 +12,9 @@
 <p align="left">
 🎓 Analista de Datos en formación 
 
-💻 Python, Power BI, SQL, Excel y técnicas de visualización
+💻 Python, Power BI, SQL, Excel y técnicas de visualización , Procesos de ETL, Procesos de EDA, Insight
 
-📝 roles : desarrollador... líder... apasionado por los datos... emprendedor... freelance... autodidacta ☺️
+📝 roles : desarrollador... líder... apasionado por los datos... emprendedor... freelance... autodidacta
 
 📫 Contacto: **bruno.r.arganaraz@gmail.com**
 <!--Intro end-->
