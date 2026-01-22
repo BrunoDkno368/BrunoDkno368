@@ -1,43 +1,79 @@
-<h1 align="center">
-  ¡Hola! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-  Bienvenido a mi perfil de GitHub 
-  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
-</h1>
+# 👋 Hola, soy Bruno Argañaraz
 
-<p align="center">
-  <a href="https://linkedin.com/in/bruno-argañaraz-726a4a199" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:bruno.r.arganaraz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/BrunoDkno368" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+🎯 **Data Analyst Jr | Python | SQL | Power BI | ETL | EDA**
 
 ---
 
-<h2>👨‍💻 Sobre mí</h2>
+## 👨‍💻 Perfil Profesional
 
-<p>
-Soy <b>Bruno Argañaraz</b>, un <b>Analista de Datos en formación</b> apasionado por convertir datos en información valiosa para la toma de decisiones.  
-Tengo una sólida base en <b>Python, SQL, Power BI y Excel</b>, con experiencia en procesos de <b>ETL (Extracción, Transformación y Carga)</b> y <b>EDA (Análisis Exploratorio de Datos)</b>.  
-<br><br>
-Mi enfoque combina la <b>curiosidad analítica</b> con la <b>comunicación efectiva</b> de resultados, buscando siempre aportar valor mediante la interpretación de patrones, tendencias e insights de negocio.  
-Me considero <b>autodidacta, proactivo y con mentalidad de mejora continua</b>.  
-<br><br>
-💡 Actualmente me encuentro ampliando mis conocimientos en <b>Machine Learning</b> y herramientas de <b>Cloud (Google BigQuery y AWS)</b>.  
-<br><br>
-📊 He trabajado con datos públicos, empresariales y simulados, desarrollando dashboards interactivos y reportes para diversas áreas: transporte, finanzas, RRHH y ventas.
-<br><br>
-📫 <b>Contacto:</b> <a href="mailto:bruno.r.arganaraz@gmail.com">bruno.r.arganaraz@gmail.com</a>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> <b>Linkedin:</b> <a href="https://www.linkedin.com/in/bruno-argañaraz-726a4a199/">https://www.linkedin.com/in/bruno-argañaraz-726a4a199/</a>
+Soy **Data Analyst Jr** con formación en análisis de datos y experiencia práctica en proyectos de **ETL**, **Análisis Exploratorio de Datos (EDA)** y **visualización**, orientados a apoyar la **toma de decisiones de negocio**.
 
+Trabajo principalmente con **Python, SQL, Power BI y Excel**, aplicando buenas prácticas de limpieza, validación y análisis de datos. Me interesa desarrollarme profesionalmente en entornos donde el dato sea un activo estratégico.
 
-</a>
-</p>
+Me caracterizo por una fuerte **curiosidad analítica**, enfoque estructurado y compromiso con el **aprendizaje continuo**.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes & Análisis
+
+* Python (pandas, numpy, matplotlib, seaborn)
+* SQL (consultas, joins, subqueries, CTEs)
+* Estadística descriptiva
+* Análisis de calidad de datos
+
+### ETL & Data Processing
+
+* Limpieza y normalización de datos
+* Validación de reglas de negocio
+* Manejo de valores nulos, duplicados y outliers
+* Columnas derivadas y control de calidad
+
+### Visualización & BI
+
+* Power BI (modelado de datos, DAX básico, dashboards)
+* Excel (tablas dinámicas, análisis y reportes)
+
+### Cloud (en aprendizaje)
+
+* Google BigQuery
+* AWS
+
+---
+
+## 📊 Proyectos de Análisis de Datos
+
+He desarrollado **proyectos prácticos** utilizando datos públicos y datasets simulados, enfocados en:
+
+* Transporte
+* Finanzas
+* Recursos Humanos
+* Ventas
+
+Aplicando:
+
+* Análisis exploratorio de datos
+* KPIs y métricas básicas
+* Dashboards interactivos
+* Reportes orientados a negocio
+
+---
+
+## 🚀 Objetivo Profesional
+
+* Iniciar mi carrera como **Data Analyst Jr**
+* Participar en proyectos reales de análisis y reporting
+* Seguir profundizando en **Python, SQL, BI y Machine Learning**
+* Aprender buenas prácticas de datos en entornos productivos
+
+---
+
+## 📫 Contacto
+
+📧 Email: **[bruno.r.arganaraz@gmail.com](mailto:bruno.r.arganaraz@gmail.com)**
+
+💼 LinkedIn: [https://www.linkedin.com/in/bruno-argañaraz-726a4a199/](https://www.linkedin.com/in/bruno-argañaraz-726a4a199/)
 
 ---
 
@@ -122,13 +158,8 @@ Me considero <b>autodidacta, proactivo y con mentalidad de mejora continua</b>.
 
 ---
 
-<h2>📊 Mis estadísticas en GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoDkno368&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDkno368&layout=compact&theme=radical" height="165">
-</p>
+<h3 align="center">✨ “Los datos por sí solos no dicen nada; el valor está en saber interpretarlos.” ✨</h3>
 
 ---
 
-<h3 align="center">✨ “Los datos cuentan historias. Mi trabajo es descubrirlas y compartirlas.” ✨</h3>
