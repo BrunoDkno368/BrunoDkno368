@@ -1,6 +1,6 @@
 # 👋 Hola, soy Bruno Argañaraz
 
-🎯 **Data Analyst Jr | Python | SQL | Power BI | ETL | EDA**
+🎯 **Data Analyst Jr | Fraud Detection | Risk Analytics | Python | SQL | Power BI | ETL | EDA | Data Visualization**
 
 ---
 
