@@ -6,66 +6,92 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Soy **Data Analyst Jr** con formación en análisis de datos y experiencia práctica en proyectos de **ETL**, **Análisis Exploratorio de Datos (EDA)** y **visualización**, orientados a apoyar la **toma de decisiones de negocio**.
+Data Analyst Jr con formación en análisis de datos y experiencia práctica desarrollando proyectos de **ETL, análisis exploratorio de datos (EDA) y visualización de información** para apoyar la toma de decisiones basadas en datos.
 
-Trabajo principalmente con **Python, SQL, Power BI y Excel**, aplicando buenas prácticas de limpieza, validación y análisis de datos. Me interesa desarrollarme profesionalmente en entornos donde el dato sea un activo estratégico.
+Trabajo principalmente con **Python (Pandas, NumPy), SQL, Power BI y Excel**, realizando procesos de **limpieza, transformación, validación y análisis de datos** provenientes de diferentes fuentes.
 
-Me caracterizo por una fuerte **curiosidad analítica**, enfoque estructurado y compromiso con el **aprendizaje continuo**.
+Tengo especial interés en áreas como **data analytics, análisis de riesgo, monitoreo de transacciones y detección de fraude**, aplicando enfoques analíticos para identificar patrones, anomalías y oportunidades de mejora en los procesos de negocio.
+
+Me caracterizo por una fuerte **curiosidad analítica, pensamiento estructurado y aprendizaje continuo**, buscando desarrollar soluciones basadas en datos que generen valor para las organizaciones.
+
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Lenguajes & Análisis
+### Tecnologías y Herramientas
 
-* Python (pandas, numpy, matplotlib, seaborn)
-* SQL (consultas, joins, subqueries, CTEs)
+**Lenguajes y Análisis de Datos**
+
+* Python: Pandas, NumPy, Matplotlib, Seaborn
+* SQL: consultas avanzadas, joins, subqueries, CTEs, agregaciones
 * Estadística descriptiva
-* Análisis de calidad de datos
+* Exploratory Data Analysis (EDA)
 
-### ETL & Data Processing
+**Data Processing & ETL**
 
+* Extracción, transformación y carga de datos (ETL)
 * Limpieza y normalización de datos
-* Validación de reglas de negocio
 * Manejo de valores nulos, duplicados y outliers
-* Columnas derivadas y control de calidad
+* Validación de reglas de negocio
+* Feature engineering (columnas derivadas)
+* Control y calidad de datos (Data Quality Checks)
 
-### Visualización & BI
+**Data Visualization & Business Intelligence**
 
-* Power BI (modelado de datos, DAX básico, dashboards)
-* Excel (tablas dinámicas, análisis y reportes)
+* Power BI: modelado de datos, dashboards interactivos, DAX básico
+* Excel: tablas dinámicas, análisis de datos y reporting
 
-### Cloud (en aprendizaje)
+**Bases de Datos**
 
+* MySQL
 * Google BigQuery
+
+**Cloud & Data Platforms (en aprendizaje)**
+
+* Google Cloud Platform (BigQuery)
 * AWS
 
 ---
 
 ## 📊 Proyectos de Análisis de Datos
 
-He desarrollado **proyectos prácticos** utilizando datos públicos y datasets simulados, enfocados en:
+He desarrollado diversos **proyectos prácticos de análisis de datos** utilizando datasets públicos y datos simulados, enfocados en distintos dominios de negocio como:
 
 * Transporte
 * Finanzas
 * Recursos Humanos
 * Ventas
 
-Aplicando:
+En estos proyectos aplico técnicas de **data analytics** para explorar, procesar y visualizar información, con el objetivo de generar insights útiles para la toma de decisiones.
 
-* Análisis exploratorio de datos
-* KPIs y métricas básicas
-* Dashboards interactivos
-* Reportes orientados a negocio
+### Principales enfoques utilizados
+
+* Exploratory Data Analysis (EDA)
+* Limpieza y transformación de datos
+* Análisis de KPIs y métricas de negocio
+* Identificación de patrones y tendencias
+* Creación de dashboards interactivos
+* Generación de reportes analíticos orientados a negocio
+
+### Herramientas utilizadas
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL para consultas y análisis de datos
+* Power BI para visualización y dashboards
+* Excel para análisis y reporting
+
 
 ---
 
 ## 🚀 Objetivo Profesional
 
-* Iniciar mi carrera como **Data Analyst Jr**
-* Participar en proyectos reales de análisis y reporting
-* Seguir profundizando en **Python, SQL, BI y Machine Learning**
-* Aprender buenas prácticas de datos en entornos productivos
+Iniciar mi carrera como **Data Analyst Jr**, participando en proyectos de análisis de datos orientados a la **toma de decisiones y análisis de riesgo**.
+
+Me interesa aplicar herramientas como **Python, SQL y Power BI** para el procesamiento, análisis y visualización de datos, especialmente en contextos de **análisis financiero, monitoreo de transacciones y detección de anomalías**.
+
+Busco desarrollarme en entornos donde el dato sea un activo estratégico, aprendiendo buenas prácticas de **data analytics, reporting y análisis de riesgo en entornos productivos**.
+
 
 ---
 
