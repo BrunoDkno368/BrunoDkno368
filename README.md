@@ -124,7 +124,7 @@ Busco desarrollarme en entornos donde el dato sea un activo estratégico, aprend
       <b>🚎 Análisis de Transporte Público (SUBE)</b><br>
       <sub><b>Contexto:</b> Análisis de movilidad con +2M transacciones del sistema SUBE para identificar patrones de uso.<br>
       <b>Proceso:</b> ETL completo (Python) + EDA + Dashboard en Power BI.<br>
-      <b>Resultado:</b> Se identificó que el <b>AMBA concentra el mayor uso</b> y los <b>colectivos son el medio más utilizado</b>. El dashboard permite visualizar rutas críticas y picos de demanda.</sub><br><br>
+      <b>Resultado:</b> Se identificó que el <b>AMBA concentra el mayor uso</b> y los <b>colectivos son el medio más utilizado</b>. El tablero permite visualizar rutas críticas y picos de demanda.</sub><br><br>
       <a href="https://github.com/BrunoDkno368/Transporte-2025">
         <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -136,7 +136,7 @@ Busco desarrollarme en entornos donde el dato sea un activo estratégico, aprend
       <b>👥 Análisis de Abandono de Empleados (Attrition)</b><br>
       <sub><b>Contexto:</b> Análisis end-to-end de rotación de personal para identificar perfiles de mayor riesgo.<br>
       <b>Proceso:</b> EDA con Python | Consultas SQL | Dashboard ejecutivo en Power BI (4 páginas).<br>
-      <b>Resultado:</b> Se detectó que los <b>empleados que hacen horas extra</b> y los <b>jóvenes en sus primeros años</b> tienen una tasa de abandono 2x mayor. El dashboard permite a RRHH monitorear KPIs clave.</sub><br><br>
+      <b>Resultado:</b> Se detectó que los <b>empleados que hacen horas extra</b> y los <b>jóvenes en sus primeros años</b> tienen una tasa de abandono 2x mayor. El tablero permite monitorear KPIs clave de RRHH.</sub><br><br>
       <a href="https://github.com/BrunoDkno368/hr-employee-attrition-analysis">
         <img src="https://img.shields.io/badge/Ver%20Repositorio-000000?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -196,7 +196,6 @@ Busco desarrollarme en entornos donde el dato sea un activo estratégico, aprend
     </td>
   </tr>
 </table>
-
 <h3 align="center">✨ “Los datos por sí solos no dicen nada; el valor está en saber interpretarlos.” ✨</h3>
 
 ---
